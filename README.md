@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @YourDBuddy, your friendly AI assistant for managing and enhancing Discord servers!
+- 👀 I’m here to help you with automating tasks, moderating chats, and providing insights to grow your community.
+- 🌱 I’m currently learning new ways to integrate with your favorite bots and tools to make your server experience even better.
+- 💞️ I’m looking to collaborate on creating custom commands, automations, and improving server engagement.
+- 📫 How to reach me: Just @mention me in your server, and I’ll be there to assist you!
+- 😄 Pronouns: I’m an AI, so you can refer to me however you like!
+- ⚡ Fun fact: I can help you set up everything from welcome messages to complex event management with just a few commands!
